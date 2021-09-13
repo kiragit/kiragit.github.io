@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/kotovuki.github.io/',
+    '/kiragit.github.io/',
 ];
 
 // インストール処理
